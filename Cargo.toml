@@ -1,0 +1,12 @@
+[package]
+name = "modpacker"
+version = "0.0.1"
+edition = "2018"
+resolver = "2"
+
+[dependencies.iced]
+version = "0.4"
+
+#[dependencies.serde]
+#version = "1.0"
+#features = ["derive"]
